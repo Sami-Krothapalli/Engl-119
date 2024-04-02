@@ -1,0 +1,9 @@
+Description of MAGNUS
+	- Tall 6,2 dresses like a scholar pale skin blue eyes and wears purple and red.
+	- Specialist in magic
+# Quest Summary: 
+
+A troubled woman has come into contact with the players because her husband, a member of an alchemist's society has disappeared. She fears for him, as he has lost his beloved brother in an incident with the duke Droles guard, and she worries he may have become radicalized against the throne. The players must make their way into the society's headquarters and get into his office, where they must search his papers for clues as to his disappearance and whereabouts. The group is secretive and their headquarters, which the wife knows where to find, is guarded by wardens armed with alchemical gas grenades, but they might be reasoned with. She also might know of a way they could sneak in if they are so inclined
+
+# Chapter 1:
+In the first chapter, the players will be called upon to find a missing or rogue "alchemist" (or wizard, or other kind of character that relies on arcane knowledge--they have lairs of a kind and do a lot of writing). They will first discern and then visit a location where the alchemist is known to be occupied. In that location, they will be called upon to decipher a series of written notes and clues that will direct them ultimately to a second location. Whether or not they have to break into a building, or some other scenario in which they may have a combat encounter or some other kind of conflict is up to you. The only hard point is that they must find someone based on a series of written clues. Ideally this chapter is concluded by the end of January, over the course of 2-3 play sessions.
