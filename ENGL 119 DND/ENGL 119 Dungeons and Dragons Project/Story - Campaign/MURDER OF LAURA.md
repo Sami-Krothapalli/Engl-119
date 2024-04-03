@@ -260,6 +260,6 @@ This scenario engages players with a mental challenge and rewards their success 
     
     - On each of his turns, the assassin can use a bonus action to take the Dash, Disengage, or Hide action.
 
-[[ASSAISN CODE]]
+[[Assassins Code]]
 
 I am currently in the process of creating the next chapter of a Dungeons & Dragons campaign. The players, Kairon and Sum Ting Wong, have just completed the side quest above and got both decoded messages from to assassins. Now in the next event, the players must first go to a safe place as police are currently suspicious of Kairon for killing the assassin.  They must decode the message which will inform them that the mines are a mysterious place that move and shift and without a map they will get lost in trying to find the person. To acquire the map there is a royal room where the map and other maps is stored in the dukes royal place although its quite hidden to find this they need to explore the alchemist society's secret headquarters but to find this head quarters they must. 
