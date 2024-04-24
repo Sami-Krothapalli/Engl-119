@@ -1,0 +1,6 @@
+Player 1, Sum Ting Wong, a Monk, and Player 2, Kairon, a Paladin, both Bronze Rank adventurers, chose among the 3 cities to be in Orario once arriving there they went to the Guild to get there quest and decided to gamble their earnings for supplies and equipment they journeyed to the marketplace in search of supplies. They discovered a Potion of Lesser Healing and a Lasso of Capture, with the latter having a weakness to Spatial Magic. Player 1 successfully robbed an individual at the Casino, acquiring 7 gold and 8 silver, while Player 2 purchased the healing potion. They then spent 3 gold each for wyvern transportation to Xandor. Along the way, they encountered a Skeleton with 20 HP in the Twilight Dungeons. Player 1 dealt 5 HP damage, reducing the Skeleton's HP to 15, and Player 2 contributed 4 HP damage, bringing it down to 11 HP.
+
+Key GM Decisions:
+
+1. Setting the price for transportation: I established fixed prices for different modes of transportation based on their convenience and availability in the world, with wyverns being a more costly yet faster option compared to other means.
+2. Assigning the difficulty of robbing and gambling: I set the difficulty for robbing and gambling based on the target's awareness and the risk involved, making it challenging but not impossible for Player 1 to succeed.

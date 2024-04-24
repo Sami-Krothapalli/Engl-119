@@ -1,0 +1,8 @@
+In this session, Sum Ting Wong and Kairon faced formidable foes, beginning with a Lich encounter. Despite using a powerful Dragon's Breath potion and their strategic abilities, they endured significant damage, with Kairon nearly reaching the brink of defeat. However, they managed to defeat the Lich, gaining 7500 experience points each and obtaining valuable items, including elixirs and potions.
+
+Their journey continued as they encountered an Ancient Red Dragon in room 3. Employing tactics like using Purple Worm Poison and skillfully attacking, they dealt substantial damage while enduring the dragon's formidable assaults. With calculated maneuvers and strategic use of items, they eventually emerged victorious, acquiring impressive drops such as healing potions, a Potion of Supreme Healing, a Potion of Regeneration, a Potion of Vitality, a Dragon's Wrath Greatsword, a Scale of the Ancient Wyrm shield, and a powerful evocation spell called Starfire Cascade.
+
+Key GM Decisions:
+
+1. Crafting challenging combat encounters: I designed encounters with powerful adversaries like the Lich and the Ancient Red Dragon, offering a balance of risk and reward while testing the players' tactical abilities.
+2. Rewarding strategic gameplay: I ensured that the players' choices in using potions, shields, and their skills had a significant impact on the outcome of the battles, rewarding their strategic thinking and resource management.
